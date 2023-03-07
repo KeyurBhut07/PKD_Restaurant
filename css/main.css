@@ -1,0 +1,50 @@
+
+.member .social a {
+    transition: color 0.3s;
+    color: #555555;
+    margin: 0 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .member .social a i {
+    line-height: 0;
+  }
+  .member .social a:hover {
+    color: #3fbbc0;
+  }
+  
+  .member .social i {
+    font-size: 18px;
+    margin: 0 2px;
+  }
+  
+  .member .member-info {
+    padding: 25px 15px;
+  }
+  
+.member .member-info h4 {
+    font-weight: 700;
+    margin-bottom: 5px;
+    font-size: 18px;
+    color: #555555;
+  }
+  
+  .member .member-info span {
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+    color: #aaaaaa;
+  }
+  
+  .member .member-info p {
+    font-style: italic;
+    font-size: 14px;
+    line-height: 26px;
+    color: #777777;
+  }
+  
+  .member:hover .social {
+    opacity: 1;
+  }

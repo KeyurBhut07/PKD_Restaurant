@@ -1,0 +1,16 @@
+Sign Up:
+Sign In:
+Home:
+Menu:
+- Thali
+- Pizza
+- Burgger
+- Juce & Shupe
+- Fastfood
+- Cold- item
+Reservetion:
+Order:
+About:
+Contact:
+Feedback:
+Profile:
